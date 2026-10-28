@@ -13,8 +13,4 @@ Built with plain HTML, CSS and JavaScript.
 ## Colour palette
 `#005F02` `#427A43` `#C0B87A` `#F2E3BB`
 
-## Run locally
-Open `index.html` in a browser.
 
-## Deploy
-Import this repository in Vercel (no build settings needed) to publish the site.
